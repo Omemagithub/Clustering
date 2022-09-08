@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,annual_income,SpendingScore,country,region
+1,Male,19,15,39,Armenia,'Central and Eastern Europe'
+2,Male,21,15,81,Angola,'Sub-Saharan Africa'
+3,Female,20,16,6,Argentina,'Latin America and Caribbean'
+4,Female,23,16,77,Austria,'Western Europe'
+5,Female,31,17,40,Australia,'Australia and New Zealand'
+6,Female,22,17,76,Azerbaijan,'Central and Eastern Europe'
+7,Female,35,18,6,Bangladesh,'Southern Asia'
+8,Female,23,18,94,Belgium,'Western Europe'
+9,Male,64,19,3,Burkina Faso,'Sub-Saharan Africa'
+10,Female,30,19,72,Bulgaria,'Central and Eastern Europe'
+11,Male,67,19,14,Burundi,'Sub-Saharan Africa'
+12,Female,35,19,99,Benin,'Sub-Saharan Africa'
+13,Female,58,20,15,Bolivia,'Latin America and Caribbean'
+14,Female,24,20,77,Brazil,'Latin America and Caribbean'
+15,Male,37,20,13,Botswana,'Sub-Saharan Africa'
+16,Male,22,20,79,Belarus,'Central and Eastern Europe'
+17,Female,35,21,35,Canada,'North America'
+18,Male,20,21,66,Switzerland,'Western Europe'
+19,Male,52,23,29,Chile,'Latin America and Caribbean'
+20,Female,35,23,98,Cameroon,'Sub-Saharan Africa'
+21,Male,35,24,35,China,'Eastern Asia'
+22,Male,25,24,73,Colombia,'Latin America and Caribbean'
+23,Female,46,25,5,Costa Rica,'Latin America and Caribbean'
+24,Male,31,25,73,Cyprus,'Western Europe'
+25,Female,54,28,14,Czech Republic,'Central and Eastern Europe'
+26,Male,29,28,82,Germany,'Western Europe'
+27,Female,45,28,32,Djibouti,'Sub-Saharan Africa'
+28,Male,35,28,61,Denmark,'Western Europe'
+29,Female,40,29,31,Dominican Republic,'Latin America and Caribbean'
+30,Female,23,29,87,Ecuador,'Latin America and Caribbean'
+31,Male,60,30,4,Estonia,'Central and Eastern Europe'
+32,Female,21,30,73,Spain,'Western Europe'
+33,Male,53,33,4,Ethiopia,'Sub-Saharan Africa'
+34,Male,18,33,92,Finland,'Western Europe'
+35,Female,49,33,14,France,'Western Europe'
+36,Female,21,33,81,Gabon,'Sub-Saharan Africa'
+37,Female,42,34,17,United Kingdom,'Western Europe'
+38,Female,30,34,73,Georgia,'Central and Eastern Europe'
+39,Female,36,37,26,Ghana,'Sub-Saharan Africa'
+40,Female,20,37,75,Greece,'Western Europe'
+41,Female,65,38,35,Honduras,'Latin America and Caribbean'
+42,Male,24,38,92,Croatia,'Central and Eastern Europe'
+43,Male,48,39,36,Hungary,'Central and Eastern Europe'
+44,Female,31,39,61,Indonesia,'Southeastern Asia'
+45,Female,49,39,28,Ireland,'Western Europe'
+46,Female,24,39,65,Israel,'Middle East and Northern Africa'
+47,Female,50,40,55,India,'Southern Asia'
+48,Female,27,40,47,Iran,'Middle East and Northern Africa'
+49,Female,29,40,42,Iceland,'Western Europe'
+50,Female,31,40,42,Italy,'Western Europe'
+51,Female,49,42,52,Japan,'Eastern Asia'
+52,Male,33,42,60,Kenya,'Sub-Saharan Africa'
+53,Female,31,43,54,Kyrgyzstan,'Central and Eastern Europe'
+54,Male,59,43,60,Cambodia,'Southeastern Asia'
+55,Female,50,43,45,Kosovo,'Central and Eastern Europe'
+56,Male,47,43,41,Kazakhstan,'Central and Eastern Europe'
+57,Female,51,44,50,Laos,'Southeastern Asia'
+58,Male,69,44,46,Sri Lanka,'Southern Asia'
+59,Female,27,46,51,Liberia,'Sub-Saharan Africa'
+60,Male,53,46,46,Lesotho,'Sub-Saharan Africa'
+61,Male,70,46,56,Lithuania,'Central and Eastern Europe'
+62,Male,19,46,55,Luxembourg,'Western Europe'
+63,Female,67,47,52,Latvia,'Central and Eastern Europe'
+64,Female,54,47,59,Morocco,'Middle East and Northern Africa'
+65,Male,63,48,51,Moldova,'Central and Eastern Europe'
+66,Male,18,48,59,Madagascar,'Sub-Saharan Africa'
+67,Female,43,48,50,Mali,'Sub-Saharan Africa'
+68,Female,68,48,48,Mongolia,'Eastern Asia'
+69,Male,19,48,59,Mauritania,'Sub-Saharan Africa'
+70,Female,32,48,47,Mauritius,'Sub-Saharan Africa'
+71,Male,70,49,55,Mexico,'Latin America and Caribbean'
+72,Female,47,49,42,Malaysia,'Southeastern Asia'
+73,Female,60,50,49,Mozambique,'Sub-Saharan Africa'
+74,Female,60,50,56,Niger,'Sub-Saharan Africa'
+75,Male,59,54,47,Nigeria,'Sub-Saharan Africa'
+76,Male,26,54,54,Nicaragua,'Latin America and Caribbean'
+77,Female,45,54,53,Netherlands,'Western Europe'
+78,Male,40,54,48,Norway,'Western Europe'
+79,Female,23,54,52,Nepal,'Southern Asia'
+80,Female,49,54,42,Panama,'Latin America and Caribbean'
+81,Male,57,54,51,Peru,'Latin America and Caribbean'
+82,Male,38,54,55,Philippines,'Southeastern Asia'
+83,Male,67,54,41,Pakistan,'Southern Asia'
+84,Female,46,54,44,Poland,'Central and Eastern Europe'
+85,Female,21,54,57,Portugal,'Western Europe'
+86,Male,48,54,46,Paraguay,'Latin America and Caribbean'
+87,Female,55,57,58,Romania,'Central and Eastern Europe'
+88,Female,22,57,55,Serbia,'Central and Eastern Europe'
+89,Female,34,58,60,Russia,'Central and Eastern Europe'
+90,Female,50,58,46,Rwanda,'Sub-Saharan Africa'
+91,Female,68,59,55,Sweden,'Western Europe'
+92,Male,18,59,41,Slovenia,'Central and Eastern Europe'
+93,Male,48,60,49,Slovakia,'Central and Eastern Europe'
+94,Female,40,60,40,Sierra Leone,'Sub-Saharan Africa'
+95,Female,32,60,42,Senegal,'Sub-Saharan Africa'
+96,Male,24,60,52,El Salvador,'Latin America and Caribbean'
+97,Female,47,60,47,Chad,'Sub-Saharan Africa'
+98,Female,27,60,50,Togo,'Sub-Saharan Africa'
+99,Male,48,61,42,Thailand,'Southeastern Asia'
+100,Male,20,61,49,Tajikistan,'Central and Eastern Europe'
+101,Female,23,62,41,Tunisia,'Middle East and Northern Africa'
+102,Female,49,62,48,Turkey,'Middle East and Northern Africa'
+103,Male,67,62,59,Tanzania,'Sub-Saharan Africa'
+104,Male,26,62,55,Ukraine,'Central and Eastern Europe'
+105,Male,49,62,56,Uganda,'Sub-Saharan Africa'
+106,Female,21,62,42,United States,'North America'
+107,Female,66,63,50,Uruguay,'Latin America and Caribbean'
+108,Male,54,63,46,Vietnam,'Southeastern Asia'
+109,Male,68,63,43,South Africa,'Sub-Saharan Africa'
+110,Male,66,63,48,Zambia,'Sub-Saharan Africa'
+111,Male,65,63,52,Zimbabwe,'Sub-Saharan Africa'
+112,Female,19,63,54,Armenia,
+113,Female,38,64,42,Angola,
+114,Male,19,64,46,Argentina,
+115,Female,18,65,48,Austria,
+116,Female,19,65,50,Australia,
+117,Female,63,65,43,Azerbaijan,
+118,Female,49,65,59,Bangladesh,
+119,Female,51,67,43,Belgium,
+120,Female,50,67,57,Burkina Faso,
+121,Male,27,67,56,Bulgaria,
+122,Female,38,67,40,Burundi,
+123,Female,40,69,58,Benin,
+124,Male,39,69,91,Bolivia,
+125,Female,23,70,29,Brazil,
+126,Female,31,70,77,Botswana,
+127,Male,43,71,35,Belarus,
+128,Male,40,71,95,Canada,
+129,Male,59,71,11,Switzerland,
+130,Male,38,71,75,Chile,
+131,Male,47,71,9,Cameroon,
+132,Male,39,71,75,China,
+133,Female,25,72,34,Colombia,
+134,Female,31,72,71,Costa Rica,
+135,Male,20,73,5,Cyprus,
+136,Female,29,73,88,Czech Republic,
+137,Female,44,73,7,Germany,
+138,Male,32,73,73,Djibouti,
+139,Male,19,74,10,Denmark,
+140,Female,35,74,72,Dominican Republic,
+141,Female,57,75,5,Ecuador,
+142,Male,32,75,93,Estonia,
+143,Female,28,76,40,Spain,
+144,Female,32,76,87,Ethiopia,
+145,Male,25,77,12,Finland,
+146,Male,28,77,97,France,
+147,Male,48,77,36,Gabon,
+148,Female,32,77,74,United Kingdom,
+149,Female,34,78,22,Georgia,
+150,Male,34,78,90,Ghana,
+151,Male,43,78,17,Greece,
+152,Male,39,78,88,Honduras,
+153,Female,44,78,20,Croatia,
+154,Female,38,78,76,Hungary,
+155,Female,47,78,16,Indonesia,
+156,Female,27,78,89,Ireland,
+157,Male,37,78,1,Israel,
+158,Female,30,78,78,India,
+159,Male,34,78,1,Iran,
+160,Female,30,78,73,Iceland,
+161,Female,56,79,35,Italy,
+162,Female,29,79,83,Japan,
+163,Male,19,81,5,Kenya,
+164,Female,31,81,93,Kyrgyzstan,
+165,Male,50,85,26,Cambodia,
+166,Female,36,85,75,Kosovo,
+167,Male,42,86,20,Kazakhstan,
+168,Female,33,86,95,Laos,
+169,Female,36,87,27,Sri Lanka,
+170,Male,32,87,63,Liberia,
+171,Male,40,87,13,Lesotho,
+172,Male,28,87,75,Lithuania,
+173,Male,36,87,10,Luxembourg,
+174,Male,36,87,92,Latvia,
+175,Female,52,88,13,Morocco,
+176,Female,30,88,86,Moldova,
+177,Male,58,88,15,Madagascar,
+178,Male,27,88,69,Mali,
+179,Male,59,93,14,Mongolia,
+180,Male,35,93,90,Mauritania,
+181,Female,37,97,32,Mauritius,
+182,Female,32,97,86,Mexico,
+183,Male,46,98,15,Malaysia,
+184,Female,29,98,88,Mozambique,
+185,Female,41,99,39,Niger,
+186,Male,30,99,97,Nigeria,
+187,Female,54,101,24,Nicaragua,
+188,Male,28,101,68,Netherlands,
+189,Female,41,103,17,Norway,
+190,Female,36,103,85,Nepal,
+191,Female,34,103,23,Panama,
+192,Female,32,103,69,Peru,
+193,Male,33,113,8,Philippines,
+194,Female,38,113,91,Pakistan,
+195,Female,47,120,16,Poland,
+196,Female,35,120,79,Portugal,
+197,Female,45,126,28,Paraguay,
+198,Male,32,126,74,Romania,
+199,Male,32,137,18,Serbia,
+200,Male,30,137,83,Russia,
